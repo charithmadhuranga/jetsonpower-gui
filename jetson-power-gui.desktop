@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Jetson Power Modes Manager
+GenericName=Power Mode Manager
+Comment=Manage NVIDIA Jetson power modes (nvpmodel, jetson_clocks)
+Exec=jetson-power-gui
+Icon=jetson-power-gui
+Terminal=false
+Type=Application
+Categories=Settings;System;HardwareSettings;
+Keywords=jetson;power;nvpmodel;performance;clocks;xavier;nano;orion;
+StartupNotify=true
+X-GNOME-UsesNotifications=true

@@ -1,0 +1,5 @@
+#!/bin/sh
+# Jetson Power Modes Manager - launcher script
+# Runs the tkinter GUI application from its installed location.
+
+exec /usr/bin/python3 /usr/share/jetson-power-gui/jetson_power_gui.py "$@"
